@@ -1,0 +1,6 @@
+applicant_id,first_name,last_name,date_of_birth,country_code,country_name,department,favourite_subject,class_head
+10001,nikhil,kumar,01-FEB-1991,IND,India,AID,AI,Prakash
+10002,janu,anjali,01-MAR-1995,USA,USA,ECE,LA,BRT
+10003,prathul,nair,04-JAN-1993,THA,Thailand,CSE,AI,BRT
+10004,dev,nair,01-JAN-1997,USA,USA,AID,LA,BRT
+10005,anand,krishnan,07-DEC-1995,IND,India,CSE,FOD,Ganesh
