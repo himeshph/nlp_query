@@ -34,3 +34,6 @@ https://tfhub.dev/google/universal-sentence-encoder-large/3?tf-hub-format=compre
 Mentions:
 Thanks to google corp for USE model
 
+keywords:
+natural language querying, nlp, query, sql, nlp project, nlp mini project, n-grams, USE model, simple nlp project
+
