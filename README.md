@@ -1,8 +1,9 @@
 # nlp_query
 Query a pandas dataframe using plain English language
 
-People loves NLP and to get hands dirty, have a look at this program
+For People loves NLP and to get hands dirty, have a look at this program
 
+Level: Basic
 
 Here we can query a pandas dataframe using plain English Language
 
